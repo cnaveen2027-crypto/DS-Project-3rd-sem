@@ -1,0 +1,6 @@
+{
+  "name": "StrokeCare AI",
+  "description": "AI-Powered Stroke Risk Prediction & Algorithm Analysis system comparing 7 machine learning models with interactive visual analytics and prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
